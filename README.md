@@ -24,5 +24,6 @@
     <script>alert("FUCK YOU B*TCH")</script>
     <p>=========================================================================</p>
 </div>
-    <p align="center">▂▃▅▇█▓▒░۩۞۩    [+] ___ 0xfdb was here ___ [+]    ۩۞۩░▒▓█▇▅▃▂</p>
+    <p align="center">▂▃▅▇█▓▒░۩۞۩    [+] ___ 0xfdb was here ___ [+]    ۩۞۩░▒▓█▇▅▃▂</p><center>
     <img height="100" width="100" src="https://lh3.googleusercontent.com/JAAMNM9TiD8hLj8f6kCtNJzuObpquEUeqpTngDnTw0HJtNk52X4U628cMqlHl_JhzgfQK-_42spBds3sWxtg6teZ_m1f_xSNSNEnqsw">
+    </center>
