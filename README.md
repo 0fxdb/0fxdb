@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Back-End ...
 - 🌱 I’m currently learning  Selenium & BeautifullSoup...
+- - ⚡ Fun fact: Im just for #Lulz ...
 - 📫 How to reach me: https://discord.gg/2eCXJkrGDm...
-- ⚡ Fun fact: Im just for #Lulz ...
 <div>
     <a href="https://github.com/0fxdb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0fxdb&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -11,6 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+    <p>=========================================================================</p>
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
@@ -20,4 +21,5 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+    <p>=========================================================================</p>
 </div>
